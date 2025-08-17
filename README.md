@@ -30,7 +30,7 @@ Welcome to **ShopSphere** — A modern, cloud-native E-Commerce platform designe
 ## 🛠 Tech Stack  
 
 **Frontend**  
-<img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap" height="40" />  
+<img src="https://skillicons.dev/icons?i=react,html,css,js,tailwindcss" height="40" />  
 
 **Backend**  
 <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" />  
